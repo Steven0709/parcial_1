@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">parcial_1</string>
+
+    <resources>
+
+        <string name="app_name">Conversor de Área</string>
+        <string name="area_acres">Área en Acres</string>
+        <string name="area_acres_definition">Un Acres equivale a 43,560 pies cuadrados.</string>
+        <string name="area_square_feet">Área en Pies Cuadrados</string>
+        <string name="area_square_feet_definition">Un Pie Cuadrado equivale a 144 pulgadas cuadradas.</string>
+        <string name="area_square_yards">Área en Yardas Cuadradas</string>
+        <string name="area_square_yards_definition">Una Yarda Cuadrada equivale a 9 pies cuadrados.</string>
+        <string name="area_square_meters">Área en Metros Cuadrados</string>
+        <string name="area_square_meters_definition">Un Metro Cuadrado equivale a 10,764 pies cuadrados.</string>
+        <string name="area_square_inches">Área en Pulgadas Cuadradas</string>
+        <string name="area_square_inches_definition">Una Pulgada Cuadrada equivale a 6,4516 centímetros cuadrados.</string>
+        <string name="area_square_rods">Área en Varas Cuadradas</string>
+        <string name="area_square_rods_definition">Una Vara Cuadrada equivale a 9 pies cuadrados.</string>
+        <string name="area_townships">Área en Township</string>
+        <string name="area_townships_definition">Un Township equivale a 36 Secciones, o 36 millas cuadradas.</string>
+        <string name="area_tareas">Área en Tareas</string>
+        <string name="area_tareas_definition">Una Tarea equivale a 1/640 de una milla cuadrada, o 24,250,73 pies cuadrados.</string>
+        <string name="area_manzanas">Área en Manzanas</string>
+        <string name="area_manzanas_definition">Una Manzana equivale a 1/640 de una milla cuadrada, o 24,250,73 pies cuadrados.</string>
+        <string name="area_hectareas">Área en Hectáreas</string>
+        <string name="area_hectareas_definition">Una Hectárea equivale a 10,000 metros cuadrados, o 107,639 pies cuadrados.</string>
+
+    </resources>
